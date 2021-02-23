@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alohawebsite/static/css/main.e2dd54c3.chunk.css",
-    "main.js": "/alohawebsite/static/js/main.90800d5f.chunk.js",
-    "main.js.map": "/alohawebsite/static/js/main.90800d5f.chunk.js.map",
+    "main.css": "/alohawebsite/static/css/main.16b4fc7f.chunk.css",
+    "main.js": "/alohawebsite/static/js/main.d333858d.chunk.js",
+    "main.js.map": "/alohawebsite/static/js/main.d333858d.chunk.js.map",
     "runtime-main.js": "/alohawebsite/static/js/runtime-main.c1aadef2.js",
     "runtime-main.js.map": "/alohawebsite/static/js/runtime-main.c1aadef2.js.map",
     "static/js/2.25f523cf.chunk.js": "/alohawebsite/static/js/2.25f523cf.chunk.js",
     "static/js/2.25f523cf.chunk.js.map": "/alohawebsite/static/js/2.25f523cf.chunk.js.map",
     "index.html": "/alohawebsite/index.html",
-    "static/css/main.e2dd54c3.chunk.css.map": "/alohawebsite/static/css/main.e2dd54c3.chunk.css.map",
+    "static/css/main.16b4fc7f.chunk.css.map": "/alohawebsite/static/css/main.16b4fc7f.chunk.css.map",
     "static/js/2.25f523cf.chunk.js.LICENSE.txt": "/alohawebsite/static/js/2.25f523cf.chunk.js.LICENSE.txt",
     "static/media/Bedroom.889efb2f.png": "/alohawebsite/static/media/Bedroom.889efb2f.png",
     "static/media/arrow-down.6b812d18.svg": "/alohawebsite/static/media/arrow-down.6b812d18.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.c1aadef2.js",
     "static/js/2.25f523cf.chunk.js",
-    "static/css/main.e2dd54c3.chunk.css",
-    "static/js/main.90800d5f.chunk.js"
+    "static/css/main.16b4fc7f.chunk.css",
+    "static/js/main.d333858d.chunk.js"
   ]
 }
